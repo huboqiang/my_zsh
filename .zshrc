@@ -100,7 +100,7 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #
 #
-alias rmate="mate"
+alias rmate="$HOME/rmate"
 alias le='less -S'
 alias ls='ls -A '
 alias ll='ls -Alp'
