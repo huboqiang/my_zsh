@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/hubq/.vimbak/bundle/molokai'
+let g:netrw_dirhist_2='/Users/hubq/Downloads/Project/human_sc/StatInfo/BackSPIN/ceftools/cef'
+let g:netrw_dirhist_3='/Users/hubq/Downloads/FileZilla/Study/studyCpp/c++/7.1.MTP/2-file-input_yes'
+let g:netrw_dirhist_4='/Users/hubq/Downloads/Project/github/github_page/thomaszhao.github.io/_posts/Python'
