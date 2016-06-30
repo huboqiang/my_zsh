@@ -102,7 +102,7 @@ source $ZSH/oh-my-zsh.sh
 #
 alias rmate="$HOME/rmate"
 alias le='less -S'
-alias ls='ls -AC '
+alias ls='ls -A --color '
 alias ll='ls -Alp'
 alias lh='ls -Alph'
 
